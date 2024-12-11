@@ -31,11 +31,7 @@ Select a category to explore topics of interest.
 Use the intuitive UI to navigate through articles, tips, and guides.
 Demo Video
 Watch the app in action: NJ Blogs Demo video https://youtu.be/sajQQYjSAeY?si=CrOT5fu0RigUSVYM
-Open the NJ Blogs app.
-Select a category to explore topics of interest.
-Use the intuitive UI to navigate through articles, tips, and guides.
-Demo Video
-Watch the app in action: NJ Blogs Demo video https://youtu.be/sajQQYjSAeY?si=CrOT5fu0RigUSVYM
+
 
 
 

@@ -23,9 +23,8 @@ Installation
 For End Users
 Download the NJ Blogs app from Google Play.
 Open the app and start exploring the content.
-For public repositories:
-https://github.com/Njsumbal786/Nj-blogs-app-source-code-
 
+nj blogs source code (1).zip
 Open the NJ Blogs app.
 Select a category to explore topics of interest.
 Use the intuitive UI to navigate through articles, tips, and guides.
